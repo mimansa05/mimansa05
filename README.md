@@ -1,56 +1,54 @@
-<h1 align="center">Hi 👋, I'm Mimansa Sharma</h1>
-
-<h1 align="center">Hi 👋, I'm Mimansa Sharma</h1>
+<h1 align="center">
+  Hi 👋, I'm Mimansa Sharma
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=850&lines=Backend+Developer;Java+%7C+Spring+Boot;AI+Enthusiast;DSA+Problem+Solver;Open+Source+Learner;Always+Building+🚀" alt="Typing SVG"/>
+  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="500" alt="Coding GIF"/>
 </p>
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Mimansa%20Sharma&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Backend%20Developer%20•%20Java%20•%20Spring%20Boot%20•%20AI&descAlignY=60&descSize=22"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Mimansa%20Sharma&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Backend%20Developer%20|%20Java%20|%20Spring%20Boot%20|%20AI&descAlignY=60"/>
 </p>
 
 <p align="center">
-<a href="https://linkedin.com/in/mimansa-sharma-806459268" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <a href="https://linkedin.com/in/mimansa-sharma-806459268">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-<a href="mailto:mimansasharma308@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <a href="mailto:mimansasharma308@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-<a href="https://leetcode.com/u/Mimansa_6/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
+  <a href="https://leetcode.com/u/Mimansa_6/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
 
-<img src="https://komarev.com/ghpvc/?username=mimansa05&style=for-the-badge&label=Profile+Views&color=0e75b6"/>
+  <img src="https://komarev.com/ghpvc/?username=mimansa05&style=for-the-badge&label=Profile+Views&color=0e75b6"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/mimansa05?tab=followers">
-    <img src="https://img.shields.io/github/followers/mimansa05?label=Followers&style=for-the-badge&color=blue"/>
+    <img src="https://img.shields.io/github/followers/mimansa05?style=for-the-badge&label=Followers"/>
   </a>
+
   <a href="https://github.com/mimansa05?tab=repositories">
-    <img src="https://img.shields.io/badge/Public%20Repos-View-success?style=for-the-badge"/>
+    <img src="https://img.shields.io/github/stars/mimansa05?style=for-the-badge&affiliations=OWNER&label=Stars"/>
   </a>
 </p>
 
 ---
 
-# 💫 About Me
+## 👩‍💻 About Me
 
 🎓 Computer Science Student at **BMS College of Engineering**
 
 💻 Passionate about **Backend Development**, **Artificial Intelligence**, and **Scalable Systems**
 
-🚀 Currently
-
+🚀 Currently:
 - Backend Developer Intern
 - Building AI-powered Customer Support Platform
 - Solving DSA (Striver Sheet)
 - Learning System Design & Kubernetes
-
----
 
 # 💻 Coding Profiles
 
