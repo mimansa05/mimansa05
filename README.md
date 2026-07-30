@@ -112,15 +112,9 @@
 
 # 🐍 Contribution Snake
 
-> Enable the **Platane/snk** GitHub Action to generate this animation.
-
-```markdown
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mimansa05/mimansa05/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/mimansa05/mimansa05/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
 </p>
-```
-
----
 
 # 📚 Currently Learning
 
