@@ -18,49 +18,23 @@
 
 # 💫 About Me
 
-🎓 **Computer Science Student** at **BMS College of Engineering**
+🎓 Computer Science Student at **BMS College of Engineering**
 
-💻 **Backend Developer** passionate about building scalable applications and solving real-world problems.
+💻 Passionate about **Backend Development, AI, and Scalable Systems**
 
-🚀 Currently working on:
+🚀 Currently:
 
-* AI-powered Customer Support Platform
-* Backend APIs using Spring Boot
-* Docker & Cloud Deployment
-* DSA (Striver Sheet)
+* Backend Developer Intern
+* Building AI-powered Customer Support Platform
+* Solving DSA (Striver Sheet)
+* Learning System Design & Kubernetes
 
-🌱 Currently learning:
+🌱 Interested in:
 
-* System Design
-* Kubernetes
-* LLM Integrations
+* Spring Boot
 * Microservices
-
----
-
-# 🚀 Featured Projects
-
-### 🏦 Banking Management System
-
-Java • Spring Boot • JWT • REST APIs • MySQL
-
-A secure banking application supporting authentication, account management, and transaction processing.
-
----
-
-### 🎉 Event Management Platform
-
-React • Node.js • Express • MongoDB
-
-A complete event booking platform with user authentication and booking management.
-
----
-
-### 🤖 AI Customer Support Platform
-
-Spring Boot • AI • REST APIs • Docker
-
-Building an intelligent customer support system integrating AI with enterprise backend services.
+* Cloud Computing
+* LLM Integrations
 
 ---
 
@@ -93,7 +67,7 @@ Building an intelligent customer support system integrating AI with enterprise b
 ### DevOps & Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,githubactions,vercel,git,github"/>
+<img src="https://skillicons.dev/icons?i=docker,githubactions,git,github,vercel"/>
 </p>
 
 ### Tools
@@ -138,7 +112,7 @@ Building an intelligent customer support system integrating AI with enterprise b
 
 # 🐍 Contribution Snake
 
-> Enable the GitHub Action from **Platane/snk** to generate this animation.
+> Enable the **Platane/snk** GitHub Action to generate this animation.
 
 ```markdown
 <p align="center">
@@ -179,9 +153,5 @@ Building an intelligent customer support system integrating AI with enterprise b
 ---
 
 <p align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-*"Always learning, always building."*
-
+<i>"Always learning. Always building."</i>
 </p>
