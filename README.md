@@ -1,197 +1,103 @@
-<h1 align="center">
-  Hi 👋, I'm Mimansa Sharma
-</h1>
+# Mimansa Sharma
 
-<p align="center">
-  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="500" alt="Coding GIF"/>
-</p>
+Computer Science student focused on backend engineering, distributed systems, and AI.
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Mimansa%20Sharma&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Backend%20Developer%20|%20Java%20|%20Spring%20Boot%20|%20AI&descAlignY=60"/>
-</p>
+I primarily work with Java and backend technologies, and I enjoy understanding how systems work internally rather than treating frameworks and abstractions as black boxes.
 
-<p align="center">
-  <a href="https://linkedin.com/in/mimansa-sharma-806459268">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+My interests lie at the intersection of backend engineering and AI, particularly in building reliable services, understanding system architecture, and exploring the infrastructure behind modern AI applications.
 
-  <a href="mailto:mimansasharma308@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+## About Me
 
-  <a href="https://leetcode.com/u/Mimansa_6/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
+I am currently pursuing Computer Science and continuously working on strengthening both my programming fundamentals and system-level understanding.
 
-  <img src="https://komarev.com/ghpvc/?username=mimansa05&style=for-the-badge&label=Profile+Views&color=0e75b6"/>
-</p>
+My current focus is on:
 
-<p align="center">
-  <a href="https://github.com/mimansa05?tab=followers">
-    <img src="https://img.shields.io/github/followers/mimansa05?style=for-the-badge&label=Followers"/>
-  </a>
+* Data Structures and Algorithms
+* Backend Engineering
+* System Design
+* Distributed Systems
+* Computer Networks
+* Databases
+* AI and AI-agent infrastructure
+* Containerization and cloud-native technologies
 
-  <a href="https://github.com/mimansa05?tab=repositories">
-    <img src="https://img.shields.io/github/stars/mimansa05?style=for-the-badge&affiliations=OWNER&label=Stars"/>
-  </a>
-</p>
+I prefer learning by building systems and going deeper into the underlying concepts behind the tools I use.
 
----
-
-## 👩‍💻 About Me
-
-🎓 Computer Science Student at **BMS College of Engineering**
-
-💻 Passionate about **Backend Development**, **Artificial Intelligence**, and **Scalable Systems**
-
-🚀 Currently:
-- Backend Developer Intern
-- Building AI-powered Customer Support Platform
-- Solving DSA (Striver Sheet)
-- Learning System Design & Kubernetes
-
-# 💻 Coding Profiles
-
-<p align="center">
-
-<a href="https://leetcode.com/u/Mimansa_6/">
-<img src="https://img.shields.io/badge/LeetCode-Mimansa__6-orange?style=for-the-badge&logo=leetcode"/>
-</a>
-
-</p>
-
-<p align="center">
-
-<img src="https://leetcard.jacoblin.cool/Mimansa_6?theme=dark&font=Nunito&ext=contest"/>
-
-</p>
-
----
-
-# 🛠 Tech Stack
+## Technical Skills
 
 ### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,c,js,php"/>
-</p>
+Java, Python, C, JavaScript, SQL
 
 ### Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express"/>
-</p>
+Spring Boot, Spring MVC, REST APIs, WebSockets, JWT Authentication
 
 ### Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind"/>
-</p>
+React.js, Next.js, HTML, CSS
 
-### Database
+### Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,firebase"/>
-</p>
+PostgreSQL, MySQL, MongoDB
 
-### DevOps
+### Infrastructure and Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,githubactions,git,github,vercel"/>
-</p>
+Docker, Redis, Kafka, Git, GitHub, Postman, IntelliJ IDEA, VS Code
 
-### Tools
+### Computer Science
 
-<p>
-<img src="https://skillicons.dev/icons?i=postman,figma"/>
-</p>
+Data Structures and Algorithms, Object-Oriented Programming, Operating Systems, Computer Networks, TCP/IP, DBMS, System Design, Distributed Systems
 
----
+## Areas of Interest
 
-# 📊 GitHub Analytics
+### Backend Systems
 
-<p align="center">
+I am interested in designing backend services that are reliable, efficient, and maintainable, with particular interest in APIs, concurrency, networking, persistence, and service architecture.
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mimansa05&show_icons=true&theme=tokyonight&hide_border=true"/>
+### Distributed Systems
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mimansa05&layout=compact&theme=tokyonight&hide_border=true"/>
+I am interested in how large-scale systems communicate and coordinate, including messaging systems, event-driven architectures, distributed storage, fault tolerance, and consistency.
 
-</p>
+### AI Systems
 
----
+Beyond using AI models, I am interested in the engineering layer around them: AI agents, tool execution, evaluation, safety testing, orchestration, and the infrastructure required to operate these systems reliably.
 
-# 🔥 Current Streak
+### Systems and Networking
 
-<p align="center">
+I enjoy understanding lower-level concepts such as TCP/IP, client-server communication, protocols, concurrency, and how applications communicate across machines.
 
-<img src="https://streak-stats.demolab.com?user=mimansa05&theme=tokyonight&hide_border=true"/>
+## Currently Learning
 
-</p>
+* Advanced Data Structures and Algorithms
+* System Design
+* Distributed Systems
+* Kubernetes
+* AI Agent Architecture
+* AI Safety and Evaluation
 
----
+## Technical Philosophy
 
-# 📈 Contribution Graph
+I prefer understanding the underlying mechanism before relying on an abstraction.
 
-<p align="center">
+Instead of only learning how to use a technology, I try to understand:
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mimansa05&theme=tokyo-night&hide_border=true"/>
+* What problem does it solve?
+* How does it work internally?
+* What happens when the system scales?
+* What are its failure modes?
+* What are the relevant trade-offs?
 
-</p>
+This approach shapes how I learn backend engineering, distributed systems, and AI infrastructure.
 
----
+## Coding Profiles
 
-# 📊 GitHub Summary
+[GitHub](https://github.com/mimansa05)
 
-<p align="center">
+[LeetCode](https://leetcode.com/u/Mimansa_6/)
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mimansa05&theme=tokyonight"/>
+[LinkedIn](https://linkedin.com/in/mimansa-sharma-806459268)
 
-</p>
+## Contact
 
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mimansa05&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mimansa05&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/mimansa05/mimansa05/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="mailto:mimansasharma308@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/mimansa-sharma-806459268">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/Mimansa_6/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-*"Code. Learn. Build. Repeat."*
-
-</p>
+[mimansasharma308@gmail.com](mailto:mimansasharma308@gmail.com)
