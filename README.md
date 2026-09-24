@@ -1,35 +1,42 @@
-# Mimansa Sharma
+<h1 align="center">Hi, I'm Mimansa Sharma</h1>
 
-Computer Science student focused on backend engineering, distributed systems, and AI.
+<p align="center">
+  Computer Science Student • Systems • AI • Distributed Systems • Software Engineering
+</p>
 
-I primarily work with Java and backend technologies, and I enjoy understanding how systems work internally rather than treating frameworks and abstractions as black boxes.
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2500&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Exploring+Distributed+Systems;Exploring+AI+Systems;Building+with+Java;Learning+System+Design;Understanding+Systems+from+First+Principles" alt="Typing SVG" />
+  </a>
+</p>
 
-My interests lie at the intersection of backend engineering and AI, particularly in building reliable services, understanding system architecture, and exploring the infrastructure behind modern AI applications.
+<p align="center">
+  <a href="https://github.com/mimansa05">GitHub</a> •
+  <a href="https://leetcode.com/u/Mimansa_6/">LeetCode</a> •
+  <a href="https://linkedin.com/in/mimansa-sharma-806459268">LinkedIn</a>
+</p>
+
+---
 
 ## About Me
 
-I am currently pursuing Computer Science and continuously working on strengthening both my programming fundamentals and system-level understanding.
+I am a Computer Science student interested in systems, artificial intelligence, distributed computing, and software engineering.
 
-My current focus is on:
+I enjoy understanding how software works beneath the abstractions I use. Rather than learning a technology only from its API or framework, I try to understand the underlying concepts, design decisions, and trade-offs that make a system work.
 
-* Data Structures and Algorithms
-* Backend Engineering
-* System Design
-* Distributed Systems
-* Computer Networks
-* Databases
-* AI and AI-agent infrastructure
-* Containerization and cloud-native technologies
+My interests span backend systems, distributed architectures, networking, databases, AI systems, and system design.
 
-I prefer learning by building systems and going deeper into the underlying concepts behind the tools I use.
+I learn primarily by building, experimenting, reading source code, and solving problems that require understanding how different components interact.
 
-## Technical Skills
+---
+
+## What I Work With
 
 ### Languages
 
 Java, Python, C, JavaScript, SQL
 
-### Backend
+### Backend and Systems
 
 Spring Boot, Spring MVC, REST APIs, WebSockets, JWT Authentication
 
@@ -41,63 +48,93 @@ React.js, Next.js, HTML, CSS
 
 PostgreSQL, MySQL, MongoDB
 
-### Infrastructure and Tools
+### Infrastructure
 
-Docker, Redis, Kafka, Git, GitHub, Postman, IntelliJ IDEA, VS Code
+Docker, Redis, Kafka, Git, GitHub
 
-### Computer Science
+### Tools
 
-Data Structures and Algorithms, Object-Oriented Programming, Operating Systems, Computer Networks, TCP/IP, DBMS, System Design, Distributed Systems
+Postman, IntelliJ IDEA, VS Code
+
+---
+
+## Core Computer Science
+
+- Data Structures and Algorithms
+- Object-Oriented Programming
+- Operating Systems
+- Computer Networks
+- TCP/IP
+- Database Management Systems
+- System Design
+- Distributed Systems
+
+---
 
 ## Areas of Interest
 
-### Backend Systems
-
-I am interested in designing backend services that are reliable, efficient, and maintainable, with particular interest in APIs, concurrency, networking, persistence, and service architecture.
-
 ### Distributed Systems
 
-I am interested in how large-scale systems communicate and coordinate, including messaging systems, event-driven architectures, distributed storage, fault tolerance, and consistency.
+Understanding how independent services communicate, coordinate, exchange data, and handle failures.
 
-### AI Systems
+I am particularly interested in messaging systems, event-driven architectures, distributed storage, consistency, concurrency, and fault tolerance.
 
-Beyond using AI models, I am interested in the engineering layer around them: AI agents, tool execution, evaluation, safety testing, orchestration, and the infrastructure required to operate these systems reliably.
+### Systems
 
-### Systems and Networking
+I enjoy understanding what happens underneath applications, including networking, protocols, memory, processes, concurrency, and client-server communication.
 
-I enjoy understanding lower-level concepts such as TCP/IP, client-server communication, protocols, concurrency, and how applications communicate across machines.
+### Artificial Intelligence
+
+My interest in AI is focused beyond simply using models.
+
+I am interested in AI agents, tool execution, model evaluation, AI infrastructure, agent reliability, and AI safety.
+
+### Software Engineering
+
+I am interested in designing software that is maintainable, reliable, and scalable, while understanding the trade-offs behind architectural decisions.
+
+---
 
 ## Currently Learning
 
-* Advanced Data Structures and Algorithms
-* System Design
-* Distributed Systems
-* Kubernetes
-* AI Agent Architecture
-* AI Safety and Evaluation
+- Advanced Data Structures and Algorithms
+- System Design
+- Distributed Systems
+- AI Agent Architecture
+- AI Safety and Evaluation
+- Scalable Software Architecture
 
-## Technical Philosophy
+---
 
-I prefer understanding the underlying mechanism before relying on an abstraction.
+## How I Learn
 
-Instead of only learning how to use a technology, I try to understand:
+I prefer understanding the mechanism behind an abstraction before relying on it.
 
-* What problem does it solve?
-* How does it work internally?
-* What happens when the system scales?
-* What are its failure modes?
-* What are the relevant trade-offs?
+When learning a technology or system, I try to answer:
 
-This approach shapes how I learn backend engineering, distributed systems, and AI infrastructure.
+- What problem does it solve?
+- Why was it designed this way?
+- How does it work internally?
+- How do its components communicate?
+- What happens when the system scales?
+- What happens when something fails?
+- What are the trade-offs?
 
-## Coding Profiles
+This approach helps me connect programming concepts with the systems that use them.
 
-[GitHub](https://github.com/mimansa05)
+---
 
-[LeetCode](https://leetcode.com/u/Mimansa_6/)
 
-[LinkedIn](https://linkedin.com/in/mimansa-sharma-806459268)
+## Connect
 
-## Contact
+<p align="center">
+  <a href="https://github.com/mimansa05">GitHub</a> •
+  <a href="https://leetcode.com/u/Mimansa_6/">LeetCode</a> •
+  <a href="https://linkedin.com/in/mimansa-sharma-806459268">LinkedIn</a>
+</p>
 
-[mimansasharma308@gmail.com](mailto:mimansasharma308@gmail.com)
+<p align="center">
+  <a href="mailto:mimansasharma308@gmail.com">
+    mimansasharma308@gmail.com
+  </a>
+</p>
